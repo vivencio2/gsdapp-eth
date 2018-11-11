@@ -1,0 +1,14 @@
+{
+    "abi": "[]",
+    "bytecode": "6080604052348015600f57600080fd5b50603580601d6000396000f3006080604052600080fd00a165627a7a723058203a442d4acb24d01ad3b5408cadcc0fe91fd4d8cb1208fe0300c46ae63ff86fdb0029",
+    "functionHashes": {},
+    "gasEstimates": {
+        "creation": [
+            66,
+            10600
+        ],
+        "external": {},
+        "internal": {}
+    },
+    "runtimeBytecode": "6080604052600080fd00a165627a7a723058203a442d4acb24d01ad3b5408cadcc0fe91fd4d8cb1208fe0300c46ae63ff86fdb0029"
+}
